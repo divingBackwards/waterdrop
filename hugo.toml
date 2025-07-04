@@ -1,0 +1,66 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Waterdrop'
+theme = 'paige'
+
+[markup.goldmark.renderer]
+unsafe = true
+
+[markup.highlight]
+noclasses = false
+style = "github"
+
+[[module.imports]]
+path = "paige"
+
+[outputs]
+home = ["atom", "html", "paige-search", "rss"]
+section = ["atom", "html", "rss"]
+taxonomy = ["atom", "html", "rss"]
+term = ["atom", "html", "rss"]
+
+[pagination]
+pagersize = 50
+
+[[params.paige.feeds.atom.authors]]
+email = "example@example.com"
+name = "John Doe"
+url = "https://example.com"
+
+[params.paige.feeds.rss]
+managing_editor = "example@example.com (John Doe)"
+web_master = "example@example.com (John Doe)"
+
+[params.paige.pages]
+disable_authors = true
+disable_date = true
+disable_keywords = true
+disable_next = true
+disable_prev = true
+disable_reading_time = true
+disable_series = true
+disable_toc = true
+disable_word_count = true
+
+[paige.pages.base_schema]
+isAccessibleForFree = true
+isFamilyFriendly = true
+
+[params.paige.site]
+disable_breadcrumbs = true
+disable_credit = true
+
+[params.paige.subpages]
+disable_authors = true
+disable_date = true
+disable_keywords = true
+disable_reading_time = true
+disable_series = true
+disable_summary = true
+disable_word_count = true
+
+[taxonomies]
+author = "authors"
+category = "categories"
+series = "series"
+tag = "tags"
