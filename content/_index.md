@@ -29,7 +29,7 @@ disable_sections = true
       margin-right: 16px;
       border-radius: 8px;
       object-fit: cover;
-      flex-shrink: 1;
+      flex-shrink: 0;
     }
   </style>
 </head>
