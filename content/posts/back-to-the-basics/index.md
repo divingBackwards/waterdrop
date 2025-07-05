@@ -7,7 +7,7 @@ title = 'Back to the basics'
 
 # Back to the basics
 
-![burger](Burger.png "Fourth burger")
+<img src="Burger.png" alt="Me holding a burger" style="height: 20rem;">
 
 My last act on American soil is eating this $20 walhburger in Logan’s international food court as an ode to this Fourth of July. To my own surprise, I’m actually bummed that I’m missing the celebrations tonight. A summer evening in New England - barefoot in the wild grass, the heartbeat of insects humming away, chucking watermelon rinds into the dark - is what I think of for the 4th. It’s the idyllic simplicity that was a given growing up and now can only be found with intention.
 
