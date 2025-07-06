@@ -1,5 +1,5 @@
 +++
-draft = true
+draft = false
 title = 'Day Zero'
 [params]
     post_image = 'images/medievalGlass.png'
