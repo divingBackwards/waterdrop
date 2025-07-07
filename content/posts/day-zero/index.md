@@ -10,6 +10,7 @@ title = 'Day Zero'
 All of Gaul is divided into three parts and Paris is divided into twenty. Starting from the center and spiraling outward, the arrondissements can be considered like boroughs of the city. My hostel is in Belleville which straddles the 19th and 20th arrondissement. Described as “more lively”, it’s a more working class neighborhood of the city, a lil grimier a lil rougher on the edges. It reminds me of Allston in a way with its fair share of Asian markets and cuisine - but more African influence. 
 
 <img src="algerianProtest.png" alt="I'm sure algerians have a lot to say about France" style="height: 20rem;">
+
 A pro-Algerian protest I watched on my walk home today
 
 
@@ -18,6 +19,7 @@ The theme of the day happened to be Medieval Paris. Looked at the Notre Dame (st
 I’ve never been too intrigued in medieval artwork. The art always seemed odd in a bad way and bland. But this place was fucking awesome. The building itself was a combination of pre-Roman constructs, Roman baths, a medieval abbey, and extensions from the 18th century onwards turning it to a mansion and then a museum. So I found myself standing in a 13m tall Roman frigidarium quite literally surrounded by Roman and Celtic artifacts presented without a barrier - so close I could breathe on them. I’ve seen ancient stonework before, of course, but the proximity made the profoundness strike harder.
 
 <img src="dickBadges.png" alt="a sign of good luck and virility" style="height: 20rem;">
+
 I took a pilgrimage to a holy site and all I got was this stupid dick badge
 
 
