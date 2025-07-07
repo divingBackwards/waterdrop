@@ -135,6 +135,6 @@
     {{ end }}
     {{ with $images }}
         {{ $image := resources.Get . }}
-        {{ partial "paige/image.html" (dict "breakpoints" true "class" "mt-3 object-fit-cover rounded-4 shadow" "height" "20rem" "src" $image.RelPermalink) }}
+        {{ partial "paige/image.html" (dict "breakpoints" true "class" "mt-3 object-fit-cover rounded-4 shadow" "height" "20rem" "width" "auto" "src" $image.RelPermalink) }}
     {{ end }}
 </div>
