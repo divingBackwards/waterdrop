@@ -9,7 +9,7 @@ title = 'Le Louvre'
 
 Today *was* the Louvre. A heroic 10am - 4:30pm making it a personal best for time at a museum. See the strat to museum endurance is start with the "learning" stuff. Egyptians, Punics, Phoenicians, Syrians, Persians. The stuff that requires a map, a list of rulers, and wikipedia.
 
-<img src="syrianScultpure.png" alt="wranglin'" style="height: 20rem;">
+<img src="syrianSculpture.png" alt="wranglin'" style="height: 20rem;">
 
 Syrian artwork during Roman occupation was strikingly beautiful
 
