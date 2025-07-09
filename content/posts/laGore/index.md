@@ -1,5 +1,5 @@
 +++
-draft = true
+draft = false
 title = "La Gare / Le Gore"
 [params]
     post_image = "images/leGore.png"
