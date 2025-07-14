@@ -1,5 +1,5 @@
 +++
-draft = true
+draft = false
 title = "Valley of Man"
 [params]
     post_image = "train.png"
