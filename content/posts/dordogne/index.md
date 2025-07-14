@@ -2,7 +2,7 @@
 draft = false
 title = "Valley of Man"
 [params]
-    post_image = "train.png"
+    post_image = "images/cat.png"
 +++
 
 <img src="train.png" style="height: 20rem;">
