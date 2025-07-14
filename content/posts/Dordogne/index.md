@@ -4,6 +4,7 @@ title = "Valley of Man"
 [params]
     post_image = "train.png"
 +++
+
 <img src="train.png" style="height: 20rem;">
 
 It’s time to get out of the city and go climb something. I wanted a full slice of the French life and there’s no better way to do that than hop off at a random train station and put around in a car for a bit. 
