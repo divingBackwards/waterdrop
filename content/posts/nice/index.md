@@ -11,6 +11,8 @@ It’s beach time, baby. Throw on the sunglasses, slap on that shirt that reads 
 
 <img src="gull.png" style="height: 20rem;">
 
+Everyone's a critic.
+
 Take a dip in the Mediterranean, dry off with a book, and walk up to a beach- side cafe for an aggressively blue drink under an umbrella.
 
 In the evening, have a lobster bisque and seafood platter. Or, more reasonably, enjoy the fine delicacies of store bought tortellini and ravioli with your hostel mates in a one-burner kitchen (have some yogurt with your pasta and tomato sauce - it’s strange but surprisingly good).
