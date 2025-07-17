@@ -29,4 +29,6 @@ Actually my time in Nice marked my second country of the trip: Monaco. Gotta say
 
 <img src="myst.png" style="height: 20rem;">
 
+The coolest restaurant I've seen. 
+
 At night, you sit on the rocky shores sipping drinks that stores technically shouldn’t be selling (but here we are), chatting with temporary friends about nothing, watching the tide bound toward you, and throwing rocks into the dark. 
