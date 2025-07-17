@@ -27,7 +27,7 @@ In europe, even their habors have trains.
 
 I did end up exploring the neighboring cities along the Riviera. They are all mostly the same thing, respectfully. This one has a village on a hill and that one has beaches with sand instead of rocks, but really you spend the day meandering about and getting hot enough to hop in the water.
 
-Actually my time in Nice marked my second country of the trip: Monaco. Gotta say, you can skip it. There is nothing there but expensive yachts in an expensive harbor. I was really looking forward to the aquarium there. The world’s richest country per capita must have a killer aquarium, right? Wrong. I actually like the Boston aquarium better, and that’s a small one as aquariums go. And there is nothing else to do there. Their culture is money and money is soulless.
+Actually my time in Nice marked my second country of the trip: Monaco. Gotta say, you can skip it. It's just expensive yachts in an expensive harbor. I was really looking forward to the aquarium there. The world’s richest country per capita must have a killer aquarium, right? Wrong. I actually like the Boston aquarium better, and that’s a small one as aquariums go. And there is nothing else to do there. Their culture is money and money is soulless.
 
 <img src="myst.png" style="height: 20rem;">
 
