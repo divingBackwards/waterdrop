@@ -1,5 +1,5 @@
 +++
-draft = true
+draft = false
 title = "Bologna"
 [params]
     post_image = "images/cityView.png"
